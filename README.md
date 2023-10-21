@@ -1,4 +1,4 @@
-![django-color](https://github.com/KoaN1010101/KoaN1010101/assets/120726907/3a0fc64e-b399-418e-baa8-c87660ead3d4)![django-color](https://github.com/KoaN1010101/KoaN1010101/assets/120726907/83b89a8c-6a2f-4e24-8d68-fdc0c22d1e4d)### Hi there 👋
+### Hi there 👋
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/7abf2df9-db3d-4605-aed3-b38f584b584a" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/80068582-7f94-47de-8fd4-ea8897be0f40" height="100" /></a>
