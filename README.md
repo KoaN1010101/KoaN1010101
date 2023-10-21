@@ -1,8 +1,8 @@
-### Hi there 👋
+![django-color](https://github.com/KoaN1010101/KoaN1010101/assets/120726907/3a0fc64e-b399-418e-baa8-c87660ead3d4)![django-color](https://github.com/KoaN1010101/KoaN1010101/assets/120726907/83b89a8c-6a2f-4e24-8d68-fdc0c22d1e4d)### Hi there 👋
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/f1537b35-c496-4141-9977-23be6530875d" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/94f7a518-9f15-4f2d-a33e-b43c51aa1854" height="100" /></a>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/36c799a6-bab9-4b5d-a74b-7e3b2ed42d4b" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/7abf2df9-db3d-4605-aed3-b38f584b584a" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/80068582-7f94-47de-8fd4-ea8897be0f40" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="http://www.w3.org/2000/svg" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/cdc02525-da88-479c-a647-abcd01139460" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/eaa0f669-c1a1-4b9a-8029-bf4e6716962f" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/a69c28aa-de31-4064-a375-5191670a7877" height="100" /></a>
