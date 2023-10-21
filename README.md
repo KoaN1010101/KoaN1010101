@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+## Skills
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/80068582-7f94-47de-8fd4-ea8897be0f40" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/7e20e0ba-258c-417f-b0fe-e9cf269b470e" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/dde81337-4236-4b56-a0ac-35971ed5351e" height="100" /></a>
