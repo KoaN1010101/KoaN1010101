@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Vladimir and I am a Python Backend Developer.
+
+<img src="https://github-readme-stats.vercel.app/api?username=KoaN1010101&show_icons=true&theme=synthwave" width="400">
 
 ## Skills
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/80068582-7f94-47de-8fd4-ea8897be0f40" height="100" /></a>
