@@ -2,7 +2,7 @@
 **My name is Vladimir and I am a Python Backend Developer.**
 
 ## Knowledge
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/53b75273-17be-4076-aa0a-368e34127125" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/e593f9d5-dbf2-4b1d-a1b5-670693103d00" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/7e20e0ba-258c-417f-b0fe-e9cf269b470e" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/dde81337-4236-4b56-a0ac-35971ed5351e" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/180bde3c-c1df-46fb-8cf5-956465acb2a5" height="100" /></a>
