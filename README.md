@@ -1,7 +1,7 @@
 ### Hi there 👋
 **My name is Vladimir and I am a Python Backend Developer.**
 
-## Knowledge
+## Technology Stack
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/e593f9d5-dbf2-4b1d-a1b5-670693103d00" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/7e20e0ba-258c-417f-b0fe-e9cf269b470e" height="100" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/dde81337-4236-4b56-a0ac-35971ed5351e" height="100" /></a>
