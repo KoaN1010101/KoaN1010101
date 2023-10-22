@@ -12,3 +12,4 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/KoaN1010101/KoaN1010101/assets/120726907/fce4c66d-9040-4aac-8fd3-d0483c7eb781" height="100" /></a>
 
 ![Alt-текст](https://forum.clientmod.ru/attachments/223/)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://forum.clientmod.ru/attachments/223/" height="100" /></a>
